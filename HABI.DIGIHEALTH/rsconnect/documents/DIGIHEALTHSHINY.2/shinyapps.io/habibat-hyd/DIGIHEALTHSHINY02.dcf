@@ -1,0 +1,12 @@
+name: DIGIHEALTHSHINY02
+title: DIGIHEALTHSHINY02
+username: habibat-hyd
+account: habibat-hyd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11167611
+bundleId: 8233461
+url: https://habibat-hyd.shinyapps.io/DIGIHEALTHSHINY02/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
